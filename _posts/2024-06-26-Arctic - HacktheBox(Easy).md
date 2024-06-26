@@ -2,7 +2,7 @@
 title: Arctic - HacktheBox(Easy)
 date: 2024-06-22
 author: Habukhan
-categories: [TryHackMe]
+categories: [HackthBox]
 tags: [Hacking, CTFs, THM]
 image: https://i.ibb.co/x2bNLDD/ar.jpg
 ---
