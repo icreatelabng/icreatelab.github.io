@@ -4,7 +4,7 @@ date: 2024-06-22
 author: Habukhan
 categories: [TryHackMe]
 tags: [Hacking, CTFs, HTB]
-image: /assets/lib/img/thm5.png
+image: https://i.ibb.co/93wTd94/resolute.jpg
 ---
 
 
